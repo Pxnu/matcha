@@ -21,9 +21,9 @@ nav {
     padding: 2rem;
 }
 
-.logo a{
-    font-size: 2rem;
-    color: #EFF5D2;
+.logo img {
+    height: 40px;
+    width: 40px;
 }
 
 .menu ul{
